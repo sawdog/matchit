@@ -14,4 +14,4 @@ syntax highlighting mechanism) intelligently.
 ## Installation
 
 Place in your vim-plug plugins file:
-```Plug 'sawdog/matchit'`
+```Plug 'sawdog/matchit'```
