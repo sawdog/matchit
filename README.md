@@ -1,6 +1,6 @@
-* vim matchit for plug-vim
+* vim matchit for vim-plug
 
-Since plug-vim no longer supports plugins from vim-scripts, the solution is
+Since vim-plug no longer supports plugins from vim-scripts, the solution is
 to make a fork in github. Originally sourced from
 http://www.vim.org/scripts/script.php?script_id=39
 
